@@ -10,8 +10,7 @@
 int AnalogRead(int AnalogPin){
     return 0;
 }
-void AnalogWrite(int AnalogPin, int Val){}
 
-void AnalogWriteResoltion(int bits){}
+void AnalogReadResoltion(unsigned char bits){}
 
 void AnalogReference(unsigned char Type){}
